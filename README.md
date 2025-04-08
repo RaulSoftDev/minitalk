@@ -69,7 +69,7 @@
 </div>
 </li>
 <li>
-<p dir="auto">Execute the client:</p>
+<p dir="auto">Execute the client in another terminal:</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><samp>./client &ltPID&gt &ltString&gt</samp></pre>
 </div>
 </li>
